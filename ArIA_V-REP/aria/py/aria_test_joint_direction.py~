@@ -1,0 +1,4 @@
+import aria
+
+rb = aria.Aria()
+rb.full_end()
